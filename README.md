@@ -1,8 +1,8 @@
 ### Hi there! I'm Ao Shen 👋
-I started my programming from scratch officially in Jan 2024.
-With this account, I will record the hard things or interesting stuff that I've been working on persistently.
-The best way to contact me is via email: ashenink@outlook.com 📩
-I'm always happy to hear from YOU! 💕
+- I started my programming from scratch officially in Jan 2024.
+- With this account, I will record the hard things or interesting stuff that I've been working on persistently.
+- The best way to contact me is via email: ashenink@outlook.com 📩
+- I'm always happy to hear from YOU! 💕
 
 <!--
 **ashenink/ashenink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
