@@ -1,5 +1,5 @@
 ### Hi there! I'm Ao Shen 👋
-- I started my programming from scratch officially in Jan 2024.
+- I started programming from scratch officially in Jan 2024.
 - With this account, I will record the hard things or interesting stuff that I've been working on persistently.
 - The best way to contact me is via email: ashenink@outlook.com 📩
 - I'm always happy to hear from YOU! 💕
