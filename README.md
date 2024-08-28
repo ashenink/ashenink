@@ -1,7 +1,7 @@
 ### Hi there! I'm Ao Shen 👋
-- I started programming from scratch officially in Jan 2024.
-- With this account, I will record the hard things or interesting stuff that I've been working on persistently.
-- The best way to contact me is via email: ashenink@outlook.com 📩
+- I officially started programming from scratch in 2024.
+- With this account, I will record the hard things or interesting stuff I've been persistently working on.
+- The best way to contact me is via email: ao.shen@tuta.io 📩
 - I'm always happy to hear from YOU! 💕
 
 <!--
